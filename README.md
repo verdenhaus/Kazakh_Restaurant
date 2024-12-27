@@ -56,7 +56,7 @@ Kazakh_Restaurant/
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/verdenhaus/Kazakh_Restaurant.git
    cd Kazakh_Restaurant
    ```
 
